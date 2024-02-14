@@ -1,5 +1,5 @@
 ## Przykladowe linki
-### text, grafika, skład,
+### text, grafika, skład (pdf)
 [![](/thumbs/0.png)](/graphics/colors.pdf)
 
 ### relacja konwent fantastyki: 
