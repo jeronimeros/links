@@ -29,4 +29,4 @@
 [![](/thumbs/8.png)](https://www.youtube.com/watch?v=XSxzCsCgE1Y){:target="_blank"}
 
 ### trailer Medic Pacific War (3D Unreal Engine)
-[![](/thumbs/9.png)](https://www.youtube.com/watch?v=l9D026O6SqE){:target="_blank"}
+[![](/thumbs/9.png){:target="_blank"}](https://www.youtube.com/watch?v=l9D026O6SqE)
