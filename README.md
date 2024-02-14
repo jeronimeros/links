@@ -1,7 +1,7 @@
 
 ### relacja konwent fantastyki: 
-https://www.youtube.com/watch?v=WgqqNvp6uf4
-https://www.youtube.com/embed/WgqqNvp6uf4
+[![](/thumbs.1.png)](https://www.youtube.com/watch?v=WgqqNvp6uf4)
+
 
 ### Fabryka broni spot dla ZebraTV: 
 https://www.youtube.com/watch?v=mtaJ6Yev2QQ
