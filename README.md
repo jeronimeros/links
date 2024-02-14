@@ -1,5 +1,5 @@
 ### text, grafika, skład,
-[![](/graphics/0.png)](/graphics/colors.pdf)
+[![](/graphics/_scaled.png)](/graphics/colors.pdf)
 
 ### relacja konwent fantastyki: 
 [![](/thumbs/1.png)](https://www.youtube.com/watch?v=WgqqNvp6uf4)
