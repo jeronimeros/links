@@ -1,7 +1,7 @@
 
 ### relacja konwent fantastyki: 
 https://www.youtube.com/watch?v=WgqqNvp6uf4
-<iframe width="800" height="270" src="https://www.youtube.com/embed/WgqqNvp6uf4" title="Jagacon / Świętokrzyski Konwent Fantastyki V.5 AFTER 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/WgqqNvp6uf4
 
 ### Fabryka broni spot dla ZebraTV: 
 https://www.youtube.com/watch?v=mtaJ6Yev2QQ
