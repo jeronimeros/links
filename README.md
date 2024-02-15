@@ -15,7 +15,7 @@
 [![](/thumbs/4.png)](https://www.youtube.com/watch?v=xcDK0kKAuTA)
 
 #### Spot reklamowy PES YES
-[![](/thumbs/10.png)](https://facefook.com/56195925677736)
+[![](/thumbs/10.png)](https://facefook.com/watch/?v=56195925677736)
 
 #### realcja Jam hulajnogowy 2:
 [![](/thumbs/5.png)](https://piped.video/watch?v=qmTTENv5wfo)
